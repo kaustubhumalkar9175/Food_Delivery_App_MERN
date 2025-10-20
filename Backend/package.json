@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "license": "ISC",
   "author": "Kaustubh",
   "type": "commonjs",
@@ -16,5 +15,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.18.1",
     "nodemon": "^3.1.10"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
